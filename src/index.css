@@ -1,0 +1,152 @@
+.nav-item {
+  color: red;
+}
+
+h1, h2, h3, p, li {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+h1{
+  color: black;
+}
+
+footer ul {
+  display: flex;
+  padding: 0 10px;
+  margin-top: 0px;
+  
+}
+footer ul li a {
+  text-decoration: none;
+  color: black;
+}
+ .nav-item a {
+  text-decoration: none;
+  color: black;
+}
+
+.whiteava {
+  border-radius: 200%;
+  height: 200px;
+  vertical-align: text-top;
+}
+
+h2, h3 {
+  text-align: center;
+}
+
+.row div {
+  transition: transform 0.7s;
+
+}
+.row div:hover {
+  transform: scale(1.1);
+
+  color: pink;
+
+}
+
+footer ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+
+}
+footer p {
+  width: 100%;
+  margin: 10px 0px;
+  color: white;
+  text-align: center;
+  
+}
+
+footer li  {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 15px;
+  transition: transform 0.7s;
+  list-style-type: none;
+  margin-top: 15px;
+
+}
+
+
+
+footer li:hover {
+  transform: scale(1.1);
+
+  color: pink;
+
+}
+.fab:hover {
+  color: pink;
+}
+.far:hover {
+  color: pink;
+}
+.fas:hover {
+  color: pink;
+}
+footer a {
+  display: inline-block;
+
+}
+.fab, .far, .fas {
+  color:black;
+}
+
+.project {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0px 5px 20px 5px;
+  text-align: center;
+  padding: 15px;
+
+}
+.projects {
+  flex: 1 1;
+}
+
+.project img {
+
+  border-radius: 8px;
+  height: 200px;
+  width: 200px;
+
+}
+.project:hover {
+  filter: brightness(90%);
+}
+
+button {
+  border-radius: 5px;
+}
+button:hover {
+  background-color: pink;
+}
+
+.nav-item:hover {
+  color:black,
+}
+@media only screen and (max-width:1200px) {
+  .main-container {
+      width: 95%;
+  }
+  
+}
+
+@media only screen and (min-width: 360px) {
+  /* For mobile phones: */
+  .one, .two  {
+      width: 50%;
+  }
+  footer ul li a{
+      font-size: 16px;
+  }
+  
+} 

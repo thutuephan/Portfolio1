@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.d9afb8af.css",
+    "main.js": "/Portfolio/static/js/main.715c162f.js",
+    "static/js/787.86e70ff7.chunk.js": "/Portfolio/static/js/787.86e70ff7.chunk.js",
+    "static/media/project2.png": "/Portfolio/static/media/project2.aa2d4d7856cce76f2384.png",
+    "static/media/appScreenShot.png": "/Portfolio/static/media/appScreenShot.061d7aaa643b32a74d8a.png",
+    "static/media/weather.png": "/Portfolio/static/media/weather.545ae88389eee69cbe4b.png",
+    "static/media/project1.jpg": "/Portfolio/static/media/project1.2185d4b981c88236343d.jpg",
+    "static/media/avar3.jpeg": "/Portfolio/static/media/avar3.39180ff90b63efe27b1e.jpeg",
+    "static/media/budget.png": "/Portfolio/static/media/budget.87b957c7608f58990f19.png",
+    "static/media/fitness.png": "/Portfolio/static/media/fitness.7eb9d5a5c75bf47286f8.png",
+    "static/media/dailyplanner.PNG": "/Portfolio/static/media/dailyplanner.6c7fa6b50d44077c6265.PNG",
+    "index.html": "/Portfolio/index.html",
+    "main.d9afb8af.css.map": "/Portfolio/static/css/main.d9afb8af.css.map",
+    "main.715c162f.js.map": "/Portfolio/static/js/main.715c162f.js.map",
+    "787.86e70ff7.chunk.js.map": "/Portfolio/static/js/787.86e70ff7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9afb8af.css",
+    "static/js/main.715c162f.js"
+  ]
+}
